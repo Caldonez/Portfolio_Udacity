@@ -1,0 +1,82 @@
+body {
+  font-family: 'Questrial', sans-serif;
+  color: #2d3c49;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.header {
+  width: 100%;
+  background-color: white;
+  display:inline-flex;
+}
+
+.logo {
+  width: 30%;
+  height: auto;
+}
+
+.designer_logo {
+  width: 80%;
+}
+
+.featured_image {
+  width: 100%;
+}
+
+.featured_work {
+  width: 100%;
+}
+
+.designer_name {
+  width: 70%;
+  height: 100px;
+  text-align: right;
+}
+
+.my_name {
+  font-size:3em;
+  line-height: 1em;
+  margin-top: -2px;
+}
+
+.my_title {
+  margin-top:-25px;
+  font-size: 1.5em;
+}
+
+.section {
+  width: 100%;
+}
+
+.featured_heading {
+  font-size: 30px;
+  color: #7d97ad;
+}
+.article {
+  width: 100%;
+  height: auto;
+  display: inline-flex;
+}
+
+.article_piece {
+  width: 33.3333%;
+  height: auto;
+  text-align:center;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  padding: 15px;
+
+}
+
+.article_pic {
+  width: 85%;
+  margin: auto;
+}
+
+.piece_link {
+  font-size: 12px;
+}

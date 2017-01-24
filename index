@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Portfolio Final</title>
+  <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+  </head>
+  <body>
+    <div class="container">
+        <div class="header">
+          <div class="logo">
+            <img class="designer_logo" src="images_fixed/caldonez_logo.svg">
+          </div>
+          <div class="designer_name">
+            <h1 class="my_name">Issaac Calhoun</h1>
+            <h3 class="my_title">Front End Ninja</h3>
+          </div>
+        </div>
+        <div>
+          <hr style="border-top: 6px solid  #7d97ad;">
+        </div>
+        <div class="section">
+            <img class="featured_image" src="images_fixed/featured-image-large.jpg" sizes="100vw" srcset="images_fixed/featured-image-large.jpg 1000w,
+            images_fixed/featured-image-medium.jpg 500w" alt="Featured Artwork">
+        </div>
+          <div class="featured_work"><h2 class="featured_heading">Feautured Work</h2>
+        </div>
+        <div class="article">
+          <div class="article_piece">
+            <a class="piece_link" href="http://orig03.deviantart.net/71eb/f/2012/348/3/4/i_am_ironman_by_caldonez-d5o1h5i.jpg">
+            <img class="article_pic" src="images_fixed/ironman-large.jpg" sizes="30vw" srcset="images_fixed/ironman-large.jpg 600w,
+            images_fixed/ironman-medium.jpg 300w" alt="Ironman">
+          </a>
+          <span class="piece_title">IRONMAN</span>
+          <a class="piece_link" href="http://orig03.deviantart.net/71eb/f/2012/348/3/4/i_am_ironman_by_caldonez-d5o1h5i.jpg">
+          http://orig03.deviantart.net/71eb/f/2012/348/3/4/i_am_ironman_by_caldonez-d5o1h5i.jpg</a>
+          </div>
+          <div class="article_piece">
+            <a class="piece_link" href="http://orig00.deviantart.net/4fe6/f/2012/317/0/0/quorra_tron_legacy_pin_up_by_caldonez-d5kxwux.jpg">
+            <img class="article_pic" src="images_fixed/quora-large.jpg" sizes="30vw" srcset="images_fixed/quora-large.jpg 600w,
+            images_fixed/quora-medium.jpg 300w" alt="Quora">
+            </a>
+          <span class="piece_title">QUORA</span>
+          <a class="piece_link" href="http://orig00.deviantart.net/4fe6/f/2012/317/0/0/quorra_tron_legacy_pin_up_by_caldonez-d5kxwux.jpg">
+          http://orig00.deviantart.net/4fe6/f/2012/317/0/0/quorra_tron_legacy_pin_up_by_caldonez-d5kxwux.jpg</a>
+          </div>
+          <div class="article_piece">
+            <a class="piece_link" href="http://orig03.deviantart.net/71eb/f/2012/348/3/4/i_am_ironman_by_caldonez-d5o1h5i.jpg">
+              <img class="article_pic" src="images_fixed/walter-white-large.jpg" sizes="30vw" srcset="images_fixed/walter-white-large.jpg 600w,
+              images_fixed/walter-white-medium.jpg 300w" alt="Walter White">
+            </a>
+          <span class="piece_title">WALTER</span>
+          <a class="piece_link" href="http://orig12.deviantart.net/93a5/f/2013/248/3/3/tread_lightly_by_caldonez-d6l6ran.jpg">
+          http://orig12.deviantart.net/93a5/f/2013/248/3/3/tread_lightly_by_caldonez-d6l6ran.jpg</a>
+          </div>
+    </div>
+  </body>
+</html>

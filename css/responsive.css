@@ -1,0 +1,51 @@
+@media screen and (max-width: 610px) {
+  .header {
+    width: 100%;
+    background-color: white;
+    display:  block;
+    margin-bottom: 100px;
+    text-align:left;
+  }
+
+  .logo {
+    width: 50%;
+    height: auto;
+  }
+
+  .designer_name {
+    width: 100%;
+    height: 100px;
+    text-align: left;
+    float:left;
+  }
+
+  .article {
+    width: 100%;
+    height: auto;
+    position:relative;;
+  }
+
+  .article_piece {
+    width: 100%;
+    height: auto;
+    text-align: left;
+    word-wrap: break-word;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 15px;
+    position: relative;
+  }
+
+  .article {
+    width: 100%;
+    height: auto;
+    display: block;
+    box-sizing: border-box;
+  }
+
+  .article_pic {
+    width: 20%;
+    padding-right: 15px;
+    float: left;
+  }
+}
