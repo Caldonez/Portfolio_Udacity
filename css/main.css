@@ -1,5 +1,5 @@
 body {
-  font-family: 'Questrial', sans-serif;
+  font-family: "Questrial", sans-serif;
   color: #2d3c49;
 }
 
@@ -23,8 +23,17 @@ body {
   width: 80%;
 }
 
-.divider {
-  border-top: 6px solid  #7d97ad;
+.rule {
+  display: inline-block;
+  width: 100%;
+}
+
+hr {
+  width: 100%;
+  height: 6px;
+  background-color: #7d97ad;
+  color: #7d97ad;
+  border: solid;
 }
 
 .featured_image {
